@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2FF&height=220&section=header&text=ML%20Notes%20PDF%20Chatbot&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GenAI%20|%20NLP%20|%20FAISS%20|%20Groq%20LLM&descAlignY=58&descColor=ffffff&descSize=18"/>
+
+
 # 🤖 ML Notes PDF Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
