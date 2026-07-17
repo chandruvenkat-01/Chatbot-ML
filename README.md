@@ -336,7 +336,7 @@ Contributions are welcome!
 
 # 👨‍💻 Author
 
-## [Your Name]
+## Chandru V
 
 **GenAI & NLP Enthusiast | Building Retrieval-Augmented Applications**
 
